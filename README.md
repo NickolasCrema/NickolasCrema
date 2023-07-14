@@ -1,4 +1,5 @@
 #### Programming student for about 5 years, with a strong interest in geoprocessing, statistics, data science, machine learning.
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasCrema&layout=compact&theme=dark"
@@ -10,6 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=NickolasCrema&show_icons=true" />
 </picture>
+</div>
 ---
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicko-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
