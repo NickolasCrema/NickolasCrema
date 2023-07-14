@@ -27,6 +27,8 @@
 
 ---
 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/nickolas-crema-01a832231/)
+
 <div>
   <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="cat-coding"/>
 </div>
