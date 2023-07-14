@@ -22,7 +22,9 @@
   <img align="center" alt="Nicko-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-<div style="margin-top: 20px">
+&nbsp
+&nbsp
+<div>
   <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="cat-coding"/>
 </div>
   
