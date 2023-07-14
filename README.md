@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#### Programming student for about 5 years, with a strong interest in geoprocessing, statistics, data science, machine learning.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasCrema&layout=compact&theme=dark"
