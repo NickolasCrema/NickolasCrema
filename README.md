@@ -11,7 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=NickolasCrema&show_icons=true" />
 </picture>
-
+---
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicko-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nicko-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -22,8 +22,8 @@
   <img align="center" alt="Nicko-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-&nbsp
-&nbsp
+---
+
 <div>
   <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="cat-coding"/>
 </div>
