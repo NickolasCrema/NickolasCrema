@@ -1,4 +1,4 @@
-Programming student for about 5 years, with a strong interest in geoprocessing, statistics, data science, machine learning.
+Programming student for about 5 years, GIS, data science and AI enthusiast.
 
 ---
 
