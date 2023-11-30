@@ -22,8 +22,11 @@ Programming student for about 5 years, GIS, data science and AI enthusiast.
   <img align="center" alt="ArcGIS Online" height="40" width="40" src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGISOnline.png">
   <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="NumPy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="PySpark" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png">
+  <img align="center" alt="DataBricks" heigh="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Postgres" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
 </div>
 
 ---
