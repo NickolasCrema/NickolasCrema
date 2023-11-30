@@ -1,4 +1,4 @@
-Programming student for about 5 years, GIS, data science and AI enthusiast.
+Programming student for about 5 years. GIS, Data and AI enthusiast.
 
 ---
 
